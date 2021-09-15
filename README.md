@@ -1,5 +1,5 @@
 # django-docker
-django를 Docker & Github Action으로 배포해봅시다.
+django를 Docker & Github Action으로 배포해봅시다!
 
 
 ## 가이드
