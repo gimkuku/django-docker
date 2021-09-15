@@ -31,14 +31,11 @@ services:
       DJANGO_SETTINGS_MODULE: django_docker.settings.dev
     restart: always
     ports:
-      - "8000:8000"
+      - "8001:8000"
     volumes:
       - .:/app
     depends_on:
       - db
-    entrypoint:
-      - sh
-      - /app/config/docker/entrypoint.sh
 volumes:
   app:
   dbdata:
