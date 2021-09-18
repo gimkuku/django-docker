@@ -8,3 +8,4 @@ django를 Docker & Github Action으로 배포해봅시다!!
 
 
 새로운 시도! 깃 액션 사용해보기
+400 배드리퀘나옴,,
