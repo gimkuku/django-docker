@@ -7,5 +7,4 @@ django를 Docker & Github Action으로 배포해봅시다!!
 [https://www.notion.so/hanqyu/django_docker-f09219e62f164f48947312cc40899342](https://www.notion.so/hanqyu/django_docker-f09219e62f164f48947312cc40899342)
 
 
-새로운 시도! 깃 액션 사용해보기!!
-푸쉬야돼라ㅏㅏ
+새로운 시도! 깃 액션 사용해보기
